@@ -1,7 +1,9 @@
 # ICPC-prep
-\Code | Category | Difficulty | Solution
+Code | Category | Difficulty | Solution
 ---|---|---|---
-[UVA 453](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=394) | geometry, circles, [direct circle intersection, but precision] | 2 | [Solution]()
+[UVA 453](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=394) | geometry
+circles
+[direct circle intersection, but precision] | 2 | [Solution]()
 2 | Add Two Numbers | Medium | [Solution](leetcode/2)
 3 | Longest Substring Without Repeating Characters | Medium | [Solution](leetcode/3)
 4 | Median of Two Sorted Arrays | Hard | [Solution](leetcode/4)
