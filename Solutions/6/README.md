@@ -1,4 +1,4 @@
-## Theory:
+## Theory
 <pre>
 Trick: the way the books are put in the shelf, the front page appears at the right side and the last page appears at the left.
 
@@ -36,7 +36,7 @@ if the worms stays in the same volume ->
     *   route length = a (only 1 volume, no cover)
     *   which follows the eq for the worm going right to left
 </pre>
-## Solution:
+## Solution
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
