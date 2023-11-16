@@ -1,5 +1,5 @@
 ## Theory
-<p>
+<pre>
 S = Square
 
 Case 01:
@@ -16,7 +16,7 @@ S
 S
 
 We can convert Case 03 into Case 02 by swapping the width with the height 
-</p>
+</pre>
 
 ## Solution:
 ```c++
