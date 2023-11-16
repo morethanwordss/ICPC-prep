@@ -1,4 +1,9 @@
-## Solution:
+## Theory
+<pre>
+1. This sort will be based only on the numbers of problems solved by each team
+2. This sort will be stable. Which means if two teams solve the same number of problems, the first appeared team in the list stays first.
+</pre>
+## Solution
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
