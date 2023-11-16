@@ -19,5 +19,4 @@ Sl No. | Code | Category | Difficulty | Solution
 16 | [UVA 1326](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4072) | ad-hoc, bitmasks | 2 | [Solution](Solutions/16)
 17 | [SPOJ CSUMQ](https://www.spoj.com/problems/CSUMQ/) | ad-hoc, prefix sum or bit | 2 | [Solution](Solutions/17)
 18 | [PKU 3461](http://poj.org/problem?id=3461) | string processing, kmp, [count word frequency] | 2 | [Solution](Solutions/18)
-19 | [UVA 13034](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4932) |impl | 2 | [Solution](Solutions/19)
-20 | [PKU 3158](http://poj.org/problem?id=3158) |impl, [hard text] | 2 | [Solution](Solutions/20)
+19 | [PKU 3158](http://poj.org/problem?id=3158) |impl, [hard text] | 2 | [Solution](Solutions/19)
