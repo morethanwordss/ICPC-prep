@@ -12,7 +12,7 @@ int32_t main() { fastIO
         return 0;
     }
     bool driverTurn = false;
-    int res = a;
+    int res = -1;
     while (true) {
         if(driverTurn) {
             if (c - d > a) {
