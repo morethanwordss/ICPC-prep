@@ -1,8 +1,8 @@
 ## Theory:
 <pre>
-Trick: the way the books are put in the shelf, the front page appears at the right side of the hand and the last page appears at the left.
+Trick: the way the books are put in the shelf, the front page appears at the right side and the last page appears at the left.
 
-c -> staring volume no.
+c -> starting volume no.
 d -> stopping volume no.
 
 if the worm goes from left to right->
