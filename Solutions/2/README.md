@@ -18,7 +18,7 @@ S
 We can convert Case 03 into Case 02 by swapping the width with the height 
 </pre>
 
-## Solution:
+## Solution
 ```c++
 #include<bits/stdc++.h>
 using namespace std;
