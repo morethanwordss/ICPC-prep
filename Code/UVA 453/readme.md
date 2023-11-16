@@ -1,6 +1,5 @@
 ## Theory:
 <pre>
-  <strong>
 (x - x1)^2 + (y - y1)^2 = r1^2 ........(i)
 (x - x2)^2 + (y - y2)^2 = r2^2 ........(ii)
 
@@ -57,7 +56,6 @@ X2 = const1 + Y2.const2
 these two are the intersecting points, BUT: 
 if (X1 == X2 && Y1 == Y2):
     There's only one intersecting point
-  </strong>
 </pre>
 
 ## Solution:
