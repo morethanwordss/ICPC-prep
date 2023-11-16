@@ -1,7 +1,7 @@
 # ICPC-prep
 Sl No. | Code | Category | Difficulty | Solution
 ---|---|---|---|---
-1 |[UVA 453](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=394) | geometry, circles, [direct circle intersection, but precision] | 2 | [Solution](Code/"UVA 453")
+1 |[UVA 453](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=394) | geometry, circles, [direct circle intersection, but precision] | 2 | [Solution](Solutions/1)
 2 | [UVA 11207](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2148) | geometry | 2 | [Solution]()
 3 | [UVA 11345](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2320) | geometry, rectangles, [overlap area, = [UVA 460](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=401)] | 2 | [Solution]()
 4 | [CF900-D2-B](https://codeforces.com/contest/900/problem/B) | math, [long division] | 2 | [Solution]()
