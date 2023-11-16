@@ -1,4 +1,4 @@
-## Theory:
+## Theory
 <pre>
 (x - x1)^2 + (y - y1)^2 = r1^2 ........(i)
 (x - x2)^2 + (y - y2)^2 = r2^2 ........(ii)
@@ -58,7 +58,7 @@ if (X1 == X2 && Y1 == Y2):
     There's only one intersecting point
 </pre>
 
-## Solution:
+## Solution
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
