@@ -1,8 +1,8 @@
-## Theory:
+## Theory
 <pre>
 Fermat's Last Theorem states that x ^ n + y ^ n = z ^ n has no integer solutions x, y, z, n for n greater than 2.
 </pre>
-## Solution:
+## Solution
 ```c++
 #include<bits/stdc++.h>
 using namespace std;
